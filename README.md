@@ -1,7 +1,7 @@
 # SCUT_HEAD_Dataset_Release
 SCUT HEAD is a large-scale head detection dataset, including 3405 images labeld with 82727 heads.
 # Description
-SCUT HEAD is a large-scale head detection dataset, including 3405 images labeld with 82727 heads. The dataset consists of two parts. PartA includes 1000 images sampled from monitor videos of classrooms in an university with 38797 heads annotated. PartB includes 2405 images crawled from Internet with 43930 heads annotated. We have labelled every visable heads with xmin, ymin, xmax and ymax coordinates and ensured that annotations cover the entire head including the blocked parts but without extra background. Both PartA and PartB are divided into training and testing parts. Our dataset follows the standard of Pascal VOC. 
+SCUT HEAD is a large-scale head detection dataset, including 3405 images labeld with 82727 heads. The dataset consists of two parts. PartA includes 1000 images sampled from monitor videos of classrooms in an university with 38797 heads annotated. PartB includes 2405 images crawled from Internet with 43930 heads annotated. We have labelled every visable heads with xmin, ymin, xmax and ymax coordinates and ensured that annotations cover the entire head including the blocked parts but without extra background. Both PartA and PartB are divided into training and testing parts. Our dataset follows the standard of Pascal VOC. And the datset is expanding continuously.
 
 # PartA 
 PartA includes 1000 images sampled from monitor videos of classrooms in an university with 38797 heads annotated. 700 images of PartA are for training and 300 for testing.
