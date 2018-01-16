@@ -10,7 +10,7 @@ Representative images and annotations are shown in Fig.1, and the histogram of p
 
 ![image](https://github.com/HCIILAB/SCUT_HEAD_Dataset_Release/blob/master/example%20in%20Part_A.png)
 
-Fig.1
+<center>Fig.1</center>
 
 ![image](https://github.com/HCIILAB/SCUT_HEAD_Dataset_Release/blob/master/statistics%20of%20Part_A.png)
 
