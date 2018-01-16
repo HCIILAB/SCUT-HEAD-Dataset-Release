@@ -9,9 +9,11 @@ Because classrooms in an university usually looks similar and the poses of peopl
 Representative images and annotations are shown in Fig.1, and the histogram of people counts is in Fig.2.
 
 ![image](https://github.com/HCIILAB/SCUT_HEAD_Dataset_Release/blob/master/example%20in%20Part_A.png)
+
 Fig.1
 
 ![image](https://github.com/HCIILAB/SCUT_HEAD_Dataset_Release/blob/master/statistics%20of%20Part_A.png)
+
 Fig.2
 
 # PartB 
@@ -19,9 +21,11 @@ PartB includes 2405 images with 43940 heads annotated. 1905 images of PartB are 
 Representative images and annotations are shown in Fig.3, and the histogram of people counts is in Fig.4.
 
 ![image](https://github.com/HCIILAB/SCUT_HEAD_Dataset_Release/blob/master/example%20in%20Part_B.png)
+
 Fig.3
 
 ![image](https://github.com/HCIILAB/SCUT_HEAD_Dataset_Release/blob/master/statistics%20of%20Part_B.png)
+
 Fig.4
 
 # Comparision 
