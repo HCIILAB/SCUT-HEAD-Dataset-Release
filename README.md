@@ -1,14 +1,14 @@
 # News
 **2018-1-16** SCUT-HEAD v1.0 is released with images and head bounding box annotations.
 # Description
-SCUT HEAD is a large-scale head detection dataset, including 4405 images labeld with 111251 heads. The dataset consists of two parts. PartA includes 2000 images sampled from monitor videos of classrooms in an university with 67321 heads annotated. PartB includes 2405 images crawled from Internet with 43930 heads annotated. We have labelled every visable heads with xmin, ymin, xmax and ymax coordinates and ensured that annotations cover the entire head including the blocked parts but without extra background. Both PartA and PartB are divided into training and testing parts. Our dataset follows the standard of Pascal VOC. 
+SCUT-HEAD is a large-scale head detection dataset, including 4405 images labeld with 111251 heads. The dataset consists of two parts. PartA includes 2000 images sampled from monitor videos of classrooms in an university with 67321 heads annotated. PartB includes 2405 images crawled from Internet with 43930 heads annotated. We have labelled every visable heads with xmin, ymin, xmax and ymax coordinates and ensured that annotations cover the entire head including the blocked parts but without extra background. Both PartA and PartB are divided into training and testing parts. Our dataset follows the standard of Pascal VOC. 
 
 ## PartA 
 PartA includes 2000 images sampled from monitor videos of classrooms in an university with 67321 heads annotated. 1500 images of PartA are for training and 500 for testing.
 Because classrooms in an university usually looks similar and the poses of people vary less, we carefully choose representative images to gain variance and reduce similarity. 
 Representative images and annotations and the histogram of people counts are shown below.
 
-![image](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/example%20of%20Part_A.png)
+![image](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/example%20of%20Part_A.jpg)
 
 
 ## PartB 
