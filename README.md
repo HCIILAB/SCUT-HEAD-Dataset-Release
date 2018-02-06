@@ -8,18 +8,18 @@ PartA includes 2000 images sampled from monitor videos of classrooms in an unive
 Because classrooms in an university usually looks similar and the poses of people vary less, we carefully choose representative images to gain variance and reduce similarity. 
 Representative images and annotations and the histogram of people counts are shown below.
 
-![image](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/example%20of%20Part_A.jpg)
+<!-- ![image](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/example%20of%20Part_A.jpg) -->
 
 
 ## PartB 
 PartB includes 2405 images with 43940 heads annotated. 1905 images of PartB are for training and 500 for testing. The images are crawled from Internet (Baidu and Google), the urls of images are provided as followed.
 Representative images and annotations and the histogram of people counts are shown below.
 
-![image](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/example%20of%20Part_B.jpg)
+<!-- ![image](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/example%20of%20Part_B.jpg) -->
 
 # Download
 PartA of SCUT-HEAD 
-[[Google Drive]](https://drive.google.com/open?id=1h1Zi_FpSIU5mVwkoLJiyDMV-y9DdZTYX)[[Baidu Drive]](https://pan.baidu.com/s/1c3oryVI)
+[[Google Drive]](https://drive.google.com/open?id=1DWZHnmcOR8H9adXRRMV_DaOLCnBEcMLi)[[Baidu Drive]](https://pan.baidu.com/s/1c3oryVI)
 
 PartB of SCUT-HEAD 
 [[Google Drive]](https://drive.google.com/open?id=1G298UFgHElio4c5UdyvR9LsP7kJscOlJ)
