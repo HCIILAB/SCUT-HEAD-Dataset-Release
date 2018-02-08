@@ -17,6 +17,7 @@ Representative image and annotations and the histogram of people counts are show
 
 <div>
 	<img src="https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/Representative_image_of_PartB.jpg">
+	<img src="https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/histogram_of_people_counts_PartB.jpg">
 </div>
 <!-- ![image](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/example%20of%20Part_B.jpg) -->
 
