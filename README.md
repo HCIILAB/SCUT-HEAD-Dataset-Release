@@ -19,11 +19,11 @@ Representative images and annotations and the histogram of people counts are sho
 
 # Download
 PartA of SCUT-HEAD 
-[[Google Drive]](https://drive.google.com/open?id=1DWZHnmcOR8H9adXRRMV_DaOLCnBEcMLi)[[Baidu Drive]](https://pan.baidu.com/s/1nwdjLxv)
+[[Google Drive]](https://drive.google.com/open?id=1DWZHnmcOR8H9adXRRMV_DaOLCnBEcMLi)[[Baidu Drive]](https://pan.baidu.com/s/1c3oryVI)
 
 PartB of SCUT-HEAD 
 [[Google Drive]](https://drive.google.com/open?id=1G298UFgHElio4c5UdyvR9LsP7kJscOlJ)
-[[Baidu Drive]](https://pan.baidu.com/s/1snn1ppj)
+[[Baidu Drive]](https://pan.baidu.com/s/1mjv2EgC)
 
 # Related Datasets
 [**HollywoodHead dataset**](http://www.di.ens.fr/willow/research/headdetection/)
