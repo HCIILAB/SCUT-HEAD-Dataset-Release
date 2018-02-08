@@ -16,11 +16,11 @@ PartB includes 2405 images with 43940 heads annotated. 1905 images of PartB are 
 Representative image and annotations and the histogram of people counts are shown below.
 
 <div align="center">
-	<a style="float:left;">
-		<img width="45%" height="300px" src="https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/Representative_image_of_PartB.jpg" >
+	<a style="float:left; padding:10px">
+		<img width="45%" height="200px" src="https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/Representative_image_of_PartB.jpg" >
 	</a>
-	<a style="float:right;">
-		<img width="45%" height="300px" src="https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/histogram_of_people_counts_PartB.jpg">
+	<a style="float:right; padding:10px">
+		<img width="45%" height="200px" src="https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/histogram_of_people_counts_PartB.jpg">
 	</a>
 </div>
 <!-- ![image](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/example%20of%20Part_B.jpg) -->
