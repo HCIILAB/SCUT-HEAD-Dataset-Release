@@ -6,15 +6,18 @@ SCUT-HEAD is a large-scale head detection dataset, including 4405 images labeld 
 ## PartA 
 PartA includes 2000 images sampled from monitor videos of classrooms in an university with 67321 heads annotated. 1500 images of PartA are for training and 500 for testing.
 Because classrooms in an university usually looks similar and the poses of people vary less, we carefully choose representative images to gain variance and reduce similarity. 
-Representative images and annotations and the histogram of people counts are shown below.
+Representative image and annotations and the histogram of people counts are shown below.
 
 <!-- ![image](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/example%20of%20Part_A.jpg) -->
 
 
 ## PartB 
 PartB includes 2405 images with 43940 heads annotated. 1905 images of PartB are for training and 500 for testing. The images are crawled from Internet (Baidu and Google), the urls of images are provided as followed.
-Representative images and annotations and the histogram of people counts are shown below.
+Representative image and annotations and the histogram of people counts are shown below.
 
+<div>
+	<img src="./representative_image_of_PartB.jpg">
+</div>
 <!-- ![image](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/example%20of%20Part_B.jpg) -->
 
 # Download
