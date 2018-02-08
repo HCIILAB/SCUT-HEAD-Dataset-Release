@@ -17,10 +17,10 @@ Representative image and annotations and the histogram of people counts are show
 
 <div align="center">
 	<a style="float:left; padding:10px">
-		<img width="45%" height="200px" src="https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/Representative_image_of_PartB.jpg" >
+		<img width="45%" height="250px" src="https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/Representative_image_of_PartB.jpg" >
 	</a>
 	<a style="float:right; padding:10px">
-		<img width="45%" height="200px" src="https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/histogram_of_people_counts_PartB.jpg">
+		<img width="45%" height="250px" src="https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/histogram_of_people_counts_PartB.jpg">
 	</a>
 </div>
 <!-- ![image](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/example%20of%20Part_B.jpg) -->
