@@ -15,7 +15,7 @@ Representative image and annotations and the histogram of people counts are show
 PartB includes 2405 images with 43940 heads annotated. 1905 images of PartB are for training and 500 for testing. The images are crawled from Internet (Baidu and Google), the urls of images are provided as followed.
 Representative image and annotations and the histogram of people counts are shown below.
 
-<div>
+<div align="center">
 	<a style="float:left;">
 		<img width="45%" height="300px" src="https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release/blob/master/Representative_image_of_PartB.jpg" >
 	</a>
