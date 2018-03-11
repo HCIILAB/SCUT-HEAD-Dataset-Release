@@ -20,7 +20,7 @@ Representative image and annotations and the histogram of people counts are show
 
 
 ## PartB 
-PartB includes 2405 images with 43940 heads annotated. 1905 images of PartB are for training and 500 for testing. The images are crawled from Internet (Baidu and Google), the urls of images are provided as followed.
+PartB includes 2405 images with 43940 heads annotated. 1905 images of PartB are for training and 500 for testing. The images are crawled from Internet. The urls of images are also provided in the dataset.
 Representative image and annotations and the histogram of people counts are shown below.
 
 <div align="center">
