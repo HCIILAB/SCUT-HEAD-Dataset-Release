@@ -38,8 +38,8 @@ PartA of SCUT-HEAD
 [[Google Drive]](https://drive.google.com/open?id=1DWZHnmcOR8H9adXRRMV_DaOLCnBEcMLi)[[Baidu Drive]](https://pan.baidu.com/s/19IyPWLpdY3iEjgucyWMjQQ)
 
 PartB of SCUT-HEAD 
-[[Google Drive]](https://drive.google.com/open?id=1G298UFgHElio4c5UdyvR9LsP7kJscOlJ)
-[[Baidu Drive]](https://pan.baidu.com/s/1mjv2EgC)
+[[Google Drive]](https://drive.google.com/open?id=1LZ_KlTPStDEcqycfqUkDkqQ-aNMMC3cl)
+[[Baidu Drive]](https://pan.baidu.com/s/1CASxJBkjKoW3_yO8OVKBvQ)
 
 # Related Datasets
 [**HollywoodHead dataset**](http://www.di.ens.fr/willow/research/headdetection/)
