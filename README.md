@@ -52,6 +52,13 @@ Brainwash dataset is related for face detection. Brainwash dataset contains 1191
 
 Please consider to cite our paper when you use our database:
 
-Dezhi Peng, Zikai Sun, Zirong Chen, Zirui Cai, Lele Xie, Lianwen Jin, Detecting Heads using Feature Refine Net and Cascaded Multi-scale Architecture, ICPR 2018.
+```
+@article{peng2018detecting,
+  title={Detecting Heads using Feature Refine Net and Cascaded Multi-scale Architecture},
+  author={Peng, Dezhi and Sun, Zikai and Chen, Zirong and Cai, Zirui and Xie, Lele and Jin, Lianwen},
+  journal={arXiv preprint arXiv:1803.09256},
+  year={2018}
+}
+```
 
 For any questions about this database please contact the authors by sending email to eelwjin@scut.edu.cn and eedzpeng@mail.scut.edu.cn.
