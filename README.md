@@ -61,4 +61,4 @@ Please consider to cite our paper when you use our database:
 }
 ```
 
-For any questions about this database please contact the authors by sending email to eelwjin@scut.edu.cn and eedzpeng@mail.scut.edu.cn.
+For any questions about this database please contact the authors by sending email to eelwjin@scut.edu.cn and pengdezhi000@gmail.com.
