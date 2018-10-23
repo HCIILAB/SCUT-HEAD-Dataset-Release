@@ -62,4 +62,10 @@ Please consider to cite our paper when you use our database:
 }
 ```
 
+# Remark
+
+The SCUT-Head database is free to the academic community for research purpose usage only.
+
+# Contact
+
 For any questions about this database please contact the authors by sending email to dezhi.peng@foxmail.com and eelwjin@scut.edu.cn.
