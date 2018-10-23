@@ -49,23 +49,21 @@ HolleywoodHeads dataset is a head detection datset. HollywoodHeads dataset conta
 [**Brainwash dataset**](https://exhibits.stanford.edu/data/catalog/sx925dc9385) 
 Brainwash dataset is related for face detection. Brainwash dataset contains 11917 images with 91146 labeled people.
 
-# Citation and Contact
-
-Please consider to cite our paper when you use our database:
+# Citation
 
 ```
 @article{peng2018detecting,
   title={Detecting Heads using Feature Refine Net and Cascaded Multi-scale Architecture},
   author={Peng, Dezhi and Sun, Zikai and Chen, Zirong and Cai, Zirui and Xie, Lele and Jin, Lianwen},
-  journal={International Confernence on Pattern Recognition, 2018},
+  journal={arXiv preprint arXiv:1803.09256},
   year={2018}
 }
 ```
 
 # Remark
 
-The SCUT-Head database is free to the academic community for research purpose usage only.
+The SCUT-HEAD database is free to the academic community for research purpose usage only.
 
 # Contact
 
-For any questions about this database please contact the authors by sending email to dezhi.peng@foxmail.com and eelwjin@scut.edu.cn.
+For any questions about this database please contact the authors by sending email to eelwjin@scut.edu.cn and dezhi.peng@foxmail.com.
