@@ -57,7 +57,7 @@ Please consider to cite our paper when you use our database:
 @article{peng2018detecting,
   title={Detecting Heads using Feature Refine Net and Cascaded Multi-scale Architecture},
   author={Peng, Dezhi and Sun, Zikai and Chen, Zirong and Cai, Zirui and Xie, Lele and Jin, Lianwen},
-  journal={arXiv preprint arXiv:1803.09256},
+  journal={International Confernence on Pattern Recognition, 2018},
   year={2018}
 }
 ```
